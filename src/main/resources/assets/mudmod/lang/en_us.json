@@ -1,0 +1,46 @@
+{
+  "block.mudmod.mud": "Mud",
+  "block.mudmod.packed_mud": "Packed mud",
+  "block.mudmod.mud_bricks": "Mud bricks",
+  "block.mudmod.mud_brick_slab": "Mud brick slab",
+  "block.mudmod.mud_brick_wall": "Mud brick wall",
+  "block.mudmod.mud_brick_stairs": "Mud brick stairs",
+  "block.mudmod.mud_brick_door": "Mud brick door",
+  "block.mudmod.mud_brick_trapdoor": "Mud brick trapdoor",
+  "block.mudmod.packed_mud_button": "Packed mud button",
+  "block.mudmod.packed_mud_pressure_plate": "Packed mud pressure plate",
+  "block.mudmod.mud_brick_fence": "Mud brick fence",
+  "block.mudmod.mud_brick_fence_gate": "Mud brick fence gate",
+  "block.mudmod.mud_crops": "Mud crops",
+
+
+  "item.mudmod.mud": "Mud",
+  "item.mudmod.packed_mud": "Packed mud",
+  "item.mudmod.mud_bricks": "Mud bricks",
+  "item.mudmod.mud_brick_slab": "Mud brick slab",
+  "item.mudmod.mud_brick_wall": "Mud brick wall",
+  "item.mudmod.mud_brick_stairs": "Mud brick stairs",
+  "item.mudmod.mud_brick_door": "Mud brick door",
+  "item.mudmod.mud_brick_trapdoor": "Mud brick trapdoor",
+  "item.mudmod.packed_mud_button": "Packed mud button",
+  "item.mudmod.packed_mud_pressure_plate": "Packed mud pressure plate",
+  "item.mudmod.mud_brick_fence": "Mud brick fence",
+  "item.mudmod.mud_brick_fence_gate": "Mud brick fence gate",
+  "item.mudmod.mud_crops": "Edible mud",
+
+  "item.mudmod.mud_pickaxe": "Mud pickaxe",
+  "item.mudmod.mud_axe": "Mud axe",
+  "item.mudmod.mud_shovel": "Mud shovel",
+  "item.mudmod.mud_hoe": "Mud hoe",
+  "item.mudmod.mud_sword": "Mud sword",
+
+  "item.mudmod.mud_boots": "Mud boots",
+  "item.mudmod.mud_leggings": "Mud leggings",
+  "item.mudmod.mud_chest": "Mud chest",
+  "item.mudmod.mud_helmet": "Mud helmet",
+
+  "tooltip.mudmod.mud": "You can get it by mixing §4dirt§r or §4coarse dirt§r with water. \n You should use §9bottle of water§r.",
+  "tooltip.mudmod.hidden": "Press §6SHIFT§r to see tooltip",
+
+  "itemGroup.MudMod": "Mud Mod"
+}

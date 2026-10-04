@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "top": "mudmod:block/mud_brick_door_top",
+    "bottom": "mudmod:block/mud_brick_door_bottom"
+  }
+}

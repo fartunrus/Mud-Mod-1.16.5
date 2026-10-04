@@ -1,0 +1,46 @@
+{
+  "block.mudmod.mud": "Грязь",
+  "block.mudmod.packed_mud": "Уплотнённая грязь",
+  "block.mudmod.mud_bricks": "Глиняные кирпичи",
+  "block.mudmod.mud_brick_slab": "Плита из глиняного кирпича",
+  "block.mudmod.mud_brick_wall": "Стена из глиняного кирпича",
+  "block.mudmod.mud_brick_stairs": "Ступени из глиняного кирпича",
+  "block.mudmod.mud_brick_door": "Дверь из глиняного кирпича",
+  "block.mudmod.mud_brick_trapdoor": "Люк из глиняного кирпича",
+  "block.mudmod.packed_mud_button": "Кнопка из уплотнённой грязи",
+  "block.mudmod.packed_mud_pressure_plate": "Нажимная плита из уплотнённой грязи",
+  "block.mudmod.mud_brick_fence": "Забор из глиняного кирпича",
+  "block.mudmod.mud_brick_fence_gate": "Калитка из глиняного кирпича",
+  "block.mudmod.mud_crops": "Грязевые семена",
+
+
+  "item.mudmod.mud": "Грязь",
+  "item.mudmod.packed_mud": "Уплотнённая грязь",
+  "item.mudmod.mud_bricks": "Глиняные кирпичи",
+  "item.mudmod.mud_brick_slab": "Плита из глиняного кирпича",
+  "item.mudmod.mud_brick_wall": "Стена из глиняного кирпича",
+  "item.mudmod.mud_brick_stairs": "Ступени из глиняного кирпича",
+  "item.mudmod.mud_brick_door": "Дверь из глиняного кирпича",
+  "item.mudmod.mud_brick_trapdoor": "Люк из глиняного кирпича",
+  "item.mudmod.packed_mud_button": "Кнопка из уплотнённой грязи",
+  "item.mudmod.packed_mud_pressure_plate": "Нажимная плита из уплотнённой грязи",
+  "item.mudmod.mud_brick_fence": "Забор из глиняного кирпича",
+  "item.mudmod.mud_brick_fence_gate": "Калитка из глиняного кирпича",
+  "item.mudmod.mud_crops": "Съедобная грязь",
+
+  "item.mudmod.mud_pickaxe": "Грязевая кирка",
+  "item.mudmod.mud_axe": "Грязевой топор",
+  "item.mudmod.mud_shovel": "Грязевая лопата",
+  "item.mudmod.mud_hoe": "Грязевая мотыга",
+  "item.mudmod.mud_sword": "Грязевой меч",
+
+  "item.mudmod.mud_boots": "Грязевые ботинки",
+  "item.mudmod.mud_leggings": "Грязевые поножи",
+  "item.mudmod.mud_chest": "Грязевой нагрудник",
+  "item.mudmod.mud_helmet": "Грязевой шлем",
+
+  "tooltip.mudmod.mud": "Ты можешь получить её, смешав §4землю§r или §4каменистую землю§r §rс водой. \n Используй §9бутылку с водой§r.",
+  "tooltip.mudmod.hidden": "Зажми §6шифт§r чтобы увидеть описание.",
+
+  "itemGroup.MudMod": "Mud Mod"
+}

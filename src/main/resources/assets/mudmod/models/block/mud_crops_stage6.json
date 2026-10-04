@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "mudmod:block/mud_crops_stage6"
+  }
+}

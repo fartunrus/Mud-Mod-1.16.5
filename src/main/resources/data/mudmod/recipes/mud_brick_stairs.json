@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mudmod:mud_bricks"
+    }
+  },
+  "result": {
+    "item": "mudmod:mud_brick_stairs",
+    "count": 4
+  }
+}

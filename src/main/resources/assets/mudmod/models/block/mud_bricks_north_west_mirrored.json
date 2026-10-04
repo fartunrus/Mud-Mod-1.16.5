@@ -1,0 +1,6 @@
+{
+  "parent": "mudmod:block/cube_north_west_mirrored_all",
+  "textures": {
+    "all": "mudmod:block/mud_bricks"
+  }
+}

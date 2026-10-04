@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "mudmod:mud_brick_stairs"
+    ]
+  },
+  "criteria": {
+    "has_mud_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mudmod:mud_bricks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mudmod:mud_brick_stairs"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_mud_bricks",
+      "has_the_recipe"
+    ]
+  ]
+}

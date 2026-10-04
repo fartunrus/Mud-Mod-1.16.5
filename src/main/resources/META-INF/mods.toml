@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="mudmod"
+version="${file.jarVersion}"
+displayName="Mud Mod by Fartunruss"
+displayURL="https://discord.gg/e52nhbxxzc"
+logoFile="modlogo.png"
+authors="Fartunruss and SuperGamesRus"
+description='''
+This mod was created when a [DATA EXPUNGED] say that [DATA EXPUNGED].
+Of course [DATA EXPUNGED]
+'''
+[[dependencies.mudmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.mudmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
